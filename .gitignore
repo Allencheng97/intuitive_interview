@@ -1,0 +1,16 @@
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+#model
+*.weights
+*.pth
+*.pyc
+#folder
+sol2_detection/config/
+sol1_classification/utils/best_model.pth
+sol1_classification/best_model.pth
+dataset/
