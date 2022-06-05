@@ -25,3 +25,6 @@ sol3 use Contrastive Language–Image learning.Set three text categories,
 a picture of a cat, a picture of a bird, a picture of a cat and a bird.
 Then all test images are encoded and the class with the greatest similarity is selected 
 for output. Easy to use, highly extensible, and at the same time up to 98% accuracy.
+
+sol4 detectron2 TBD
+This problem also can be solved and trained by detectron2 framework.
