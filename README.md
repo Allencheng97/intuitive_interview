@@ -1,4 +1,4 @@
-# intuitive_interview
+# intuitive_interview_exercise
 Bob the bird keeper has a problem that he thinks you can help him with. His birds are constantly harassed by 
 the neighbor’s cats who are looking for a quick dinner. To protect his birds, Bob has setup a camera triggered 
 alarm that goes off when a cat is nearby. To help Bob, please design and implement an automated algorithm that 
