@@ -20,7 +20,7 @@ def parse_model_config(path):
     return module_defs
 
 def parse_data_config(path):
-    options = dict()
+    options = {}
     options['gpus'] = '0,1,2,3'
     options['num_workers'] = '10'
     with open(path, 'r') as fp:
