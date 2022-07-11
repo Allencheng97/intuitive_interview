@@ -1,9 +1,7 @@
 import glob
 from xmlrpc.client import boolean
-import numpy as np
 import pandas as pd
 import argparse
-from pathlib import Path
 import torch
 from PIL import Image
 import torchvision.transforms.functional as TF

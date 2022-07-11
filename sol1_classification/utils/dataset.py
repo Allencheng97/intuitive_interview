@@ -1,13 +1,9 @@
 from __future__ import print_function, division
 import os
-import torch
-import glob
 import pandas as pd
-from skimage import io, transform
-import numpy as np
+from skimage import transform
 import matplotlib.pyplot as plt
-from torch.utils.data import Dataset, DataLoader
-from torchvision import transforms, utils
+from torch.utils.data import Dataset
 from torchvision.io import read_image
 
 # Ignore warnings

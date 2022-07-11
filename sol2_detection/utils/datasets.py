@@ -1,5 +1,4 @@
 import glob
-import random
 import os
 import numpy as np
 
@@ -13,8 +12,6 @@ import torchvision.transforms as transforms
 ##import matplotlib.patches as patches
 
 from skimage.transform import resize
-
-import sys
 
 class ImageFolder(Dataset):
     def __init__(self, folder_path, img_size=416):
